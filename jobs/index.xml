@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jobs on Jobs in the Desert</title>
-    <link>http://example.org/jobs/</link>
+    <link>https://jobsinthedesert.github.io/jobs/</link>
     <description>Recent content in Jobs on Jobs in the Desert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 May 2018 22:39:54 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/jobs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jobsinthedesert.github.io/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
